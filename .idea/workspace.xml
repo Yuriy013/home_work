@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="40c5fcc9-ed7f-4bb9-b91e-bcee4782d4dc" name="Changes" comment="lesson3 hw5">
-      <change afterPath="$USER_HOME$/OneDrive/Escritorio/HTML-CSS/java script/lesson 3/hw6/index.html" afterDir="false" />
-      <change afterPath="$USER_HOME$/OneDrive/Escritorio/HTML-CSS/java script/lesson 3/hw6/main.js" afterDir="false" />
+    <list default="true" id="40c5fcc9-ed7f-4bb9-b91e-bcee4782d4dc" name="Changes" comment="lesson3 hw7">
+      <change afterPath="$USER_HOME$/OneDrive/Escritorio/HTML-CSS/java script/lesson 4/hw1/index.html" afterDir="false" />
+      <change afterPath="$USER_HOME$/OneDrive/Escritorio/HTML-CSS/java script/lesson 4/hw1/main.js" afterDir="false" />
       <change beforePath="$USER_HOME$/OneDrive/Escritorio/HTML-CSS/java script/.idea/workspace.xml" beforeDir="false" afterPath="$USER_HOME$/OneDrive/Escritorio/HTML-CSS/java script/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -78,7 +78,7 @@
       <option name="presentableId" value="Default" />
       <updated>1731671403902</updated>
       <workItem from="1731671404972" duration="31321000" />
-      <workItem from="1731969563983" duration="5782000" />
+      <workItem from="1731969563983" duration="8733000" />
     </task>
     <task id="LOCAL-00001" summary="lesson3 hw4">
       <option name="closed" value="true" />
@@ -96,7 +96,23 @@
       <option name="project" value="LOCAL" />
       <updated>1731973940447</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="lesson3 hw6">
+      <option name="closed" value="true" />
+      <created>1731975657583</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1731975657583</updated>
+    </task>
+    <task id="LOCAL-00004" summary="lesson3 hw7">
+      <option name="closed" value="true" />
+      <created>1731977120938</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1731977120938</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -116,6 +132,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="lesson3 hw4" />
     <MESSAGE value="lesson3 hw5" />
-    <option name="LAST_COMMIT_MESSAGE" value="lesson3 hw5" />
+    <MESSAGE value="lesson3 hw6" />
+    <MESSAGE value="lesson3 hw7" />
+    <option name="LAST_COMMIT_MESSAGE" value="lesson3 hw7" />
   </component>
 </project>
