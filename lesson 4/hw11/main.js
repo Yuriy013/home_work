@@ -10,3 +10,4 @@ function sum(arr) {
   return basket
 }
 console.log(sum([1,2,10]));
+
