@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="40c5fcc9-ed7f-4bb9-b91e-bcee4782d4dc" name="Changes" comment="lesson 6 hw7" />
+    <list default="true" id="40c5fcc9-ed7f-4bb9-b91e-bcee4782d4dc" name="Changes" comment="lesson 6 hw7">
+      <change afterPath="$USER_HOME$/OneDrive/Escritorio/HTML-CSS/java script/lesson 6/hw8/index.html" afterDir="false" />
+      <change beforePath="$USER_HOME$/OneDrive/Escritorio/HTML-CSS/java script/.idea/workspace.xml" beforeDir="false" afterPath="$USER_HOME$/OneDrive/Escritorio/HTML-CSS/java script/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -78,7 +81,7 @@
       <updated>1731671403902</updated>
       <workItem from="1731671404972" duration="31321000" />
       <workItem from="1731969563983" duration="9720000" />
-      <workItem from="1732057541131" duration="28994000" />
+      <workItem from="1732057541131" duration="30982000" />
     </task>
     <task id="LOCAL-00001" summary="lesson3 hw4">
       <option name="closed" value="true" />
@@ -328,7 +331,15 @@
       <option name="project" value="LOCAL" />
       <updated>1732294629197</updated>
     </task>
-    <option name="localTasksCounter" value="32" />
+    <task id="LOCAL-00032" summary="lesson 6 hw7">
+      <option name="closed" value="true" />
+      <created>1732294686057</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1732294686057</updated>
+    </task>
+    <option name="localTasksCounter" value="33" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
