@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<script>
+// Взяти масив з  User[] з попереднього завдання, та відсортувати його по id. по зростанню (sort)
+function User (id,name,surname,email,phone){
+    this.id = id;
+    this.name = name;
+    this.surname = surname;
+    this.email = email;
+    this.phone = phone;
+}
+
+let user = new User(1,"vasya","zaharchenko","vas@.com",653325);
+
+let users=[
+    new User(5,"kolya","ponomarenko","hdje@.com",653632),
+    new User(2,"olja","zinka","jkol@.com",635456),
+    new User(3,"zinka","petruk","lokio@.com",635221),
+    new User(4,"borja","naumenko","jjjdj@.com",635889)
+];
+function sorter(user1,user2){
+    return user1.id - user2.id;
+}
+console.log(users.sort(sorter))
+
+</script>
+
+</body>
+</html>
