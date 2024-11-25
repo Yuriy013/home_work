@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<script>
+//Взяти масив з  User[] з попереднього завдання, та відфільтрувати , залишивши тільки об'єкти з парними id (filter)
+function User (id,name,surname,email,phone){
+    this.id = id;
+    this.name = name;
+    this.surname = surname;
+    this.email = email;
+    this.phone = phone;
+}
+
+let user = new User(1,"vasya","zaharchenko","vas@.com",653325);
+
+let users=[
+    new User(2,"kolya","ponomarenko","hdje@.com",653632),
+    new User(3,"olja","zinka","jkol@.com",635456),
+    new User(4,"zinka","petruk","lokio@.com",635221),
+    new User(5,"borja","naumenko","jjjdj@.com",635889)
+];
+const filterUsers = users.filter((user) => user.id % 2 === 0);
+console.log(filterUsers);
+
+
+</script>
+
+</body>
+</html>
