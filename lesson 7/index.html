@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<script>
+ //   Створити функцію конструктор для об'єктів User з полями id, name, surname , email, phone
+ //   створити пустий масив, наповнити його 10 об'єктами new User(....)
+ function User (id,name,surname,email,phone){
+     this.id = id;
+     this.name = name;
+     this.surname = surname;
+     this.email = email;
+     this.phone = phone;
+ }
+
+     let user = new User(1,"vasya","zaharchenko","vas@.com",653325);
+ console.log(user);
+ let users=[
+     new User(2,"kolya","ponomarenko","hdje@.com",653632),
+     new User(3,"olja","zinka","jkol@.com",635456),
+     new User(4,"zinka","petruk","lokio@.com",635221),
+     new User(5,"borja","naumenko","jjjdj@.com",635889)
+ ];
+ console.log(users);
+
+ //опис:спочатку мав багато помелок,слідкуємо за всіма крапками і комами,і щоб User був з великої букви.
+ //бо спочатку вибивало помилку і невиводило на консоль через маленьку букву users.
+</script>
+
+</body>
+</html>
