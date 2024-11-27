@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="40c5fcc9-ed7f-4bb9-b91e-bcee4782d4dc" name="Changes" comment="lesson 7 hw3">
-      <change afterPath="$USER_HOME$/OneDrive/Escritorio/HTML-CSS/java script/lesson 7/hw4/index.html" afterDir="false" />
+    <list default="true" id="40c5fcc9-ed7f-4bb9-b91e-bcee4782d4dc" name="Changes" comment="lesson 7 hw4">
+      <change afterPath="$USER_HOME$/OneDrive/Escritorio/HTML-CSS/java script/lesson 7/hw5/index.html" afterDir="false" />
       <change beforePath="$USER_HOME$/OneDrive/Escritorio/HTML-CSS/java script/.idea/workspace.xml" beforeDir="false" afterPath="$USER_HOME$/OneDrive/Escritorio/HTML-CSS/java script/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -81,7 +81,7 @@
       <updated>1731671403902</updated>
       <workItem from="1731671404972" duration="31321000" />
       <workItem from="1731969563983" duration="9720000" />
-      <workItem from="1732057541131" duration="44512000" />
+      <workItem from="1732057541131" duration="45303000" />
     </task>
     <task id="LOCAL-00001" summary="lesson3 hw4">
       <option name="closed" value="true" />
@@ -395,7 +395,15 @@
       <option name="project" value="LOCAL" />
       <updated>1732538386351</updated>
     </task>
-    <option name="localTasksCounter" value="40" />
+    <task id="LOCAL-00040" summary="lesson 7 hw4">
+      <option name="closed" value="true" />
+      <created>1732685028881</created>
+      <option name="number" value="00040" />
+      <option name="presentableId" value="LOCAL-00040" />
+      <option name="project" value="LOCAL" />
+      <updated>1732685028881</updated>
+    </task>
+    <option name="localTasksCounter" value="41" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -413,7 +421,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="lesson 4 hw9" />
     <MESSAGE value="lesson 4 hw10" />
     <MESSAGE value="lesson 4 hw11" />
     <MESSAGE value="lesson 4 hw12" />
@@ -438,7 +445,8 @@
     <MESSAGE value="lesson 7 hw1" />
     <MESSAGE value="lesson 7 hw2" />
     <MESSAGE value="lesson 7 hw3" />
-    <option name="LAST_COMMIT_MESSAGE" value="lesson 7 hw3" />
+    <MESSAGE value="lesson 7 hw4" />
+    <option name="LAST_COMMIT_MESSAGE" value="lesson 7 hw4" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
