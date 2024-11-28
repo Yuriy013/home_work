@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="40c5fcc9-ed7f-4bb9-b91e-bcee4782d4dc" name="Changes" comment="lesson 7 hw9">
-      <change afterPath="$USER_HOME$/OneDrive/Escritorio/HTML-CSS/java script/lesson 8/hw1/index.html" afterDir="false" />
-      <change beforePath="$USER_HOME$/OneDrive/Escritorio/HTML-CSS/java script/.idea/workspace.xml" beforeDir="false" afterPath="$USER_HOME$/OneDrive/Escritorio/HTML-CSS/java script/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="40c5fcc9-ed7f-4bb9-b91e-bcee4782d4dc" name="Changes" comment="lesson 8 hw1" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -81,7 +78,7 @@
       <updated>1731671403902</updated>
       <workItem from="1731671404972" duration="31321000" />
       <workItem from="1731969563983" duration="9720000" />
-      <workItem from="1732057541131" duration="51091000" />
+      <workItem from="1732057541131" duration="51765000" />
     </task>
     <task id="LOCAL-00001" summary="lesson3 hw4">
       <option name="closed" value="true" />
@@ -443,7 +440,15 @@
       <option name="project" value="LOCAL" />
       <updated>1732744527949</updated>
     </task>
-    <option name="localTasksCounter" value="46" />
+    <task id="LOCAL-00046" summary="lesson 8 hw1">
+      <option name="closed" value="true" />
+      <created>1732794173961</created>
+      <option name="number" value="00046" />
+      <option name="presentableId" value="LOCAL-00046" />
+      <option name="project" value="LOCAL" />
+      <updated>1732794173961</updated>
+    </task>
+    <option name="localTasksCounter" value="47" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -461,7 +466,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="lesson 5 hw2" />
     <MESSAGE value="lesson 5 hw3" />
     <MESSAGE value="lesson 5 hw4" />
     <MESSAGE value="lesson 5 hw5" />
@@ -486,7 +490,8 @@
     <MESSAGE value="lesson 7 hw7" />
     <MESSAGE value="lesson 7 hw8" />
     <MESSAGE value="lesson 7 hw9" />
-    <option name="LAST_COMMIT_MESSAGE" value="lesson 7 hw9" />
+    <MESSAGE value="lesson 8 hw1" />
+    <option name="LAST_COMMIT_MESSAGE" value="lesson 8 hw1" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
