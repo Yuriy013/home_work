@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<script>
+//#OPLI89c9G
+//- Є масив:
+//Зробити ul в середині якої будуть лежати елементи масиву (кожен в своєму li)
+let arr = ['Main','Products','About us','Contacts']//є масив
+const menu = document.createElement("ul");// створили UL
+menu.classList.add("menu");// створили клас меню
+for (const item of arr) {    //зробили ітерацію
+    const li = document.createElement("li");  //створили LI
+    li.innerText = item; //до ліжка додали текс з масиву
+    menu.appendChild(li);  // в ul добавили li(menu це клас)
+
+}
+
+
+document.body.appendChild(menu)//ul добавили в body
+
+
+
+</script>
+
+</body>
+</html>
