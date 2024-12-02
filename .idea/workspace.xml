@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="40c5fcc9-ed7f-4bb9-b91e-bcee4782d4dc" name="Changes" comment="lesson 9 hw3">
-      <change afterPath="$USER_HOME$/OneDrive/Escritorio/HTML-CSS/java script/lesson 9/hw4/index.html" afterDir="false" />
+    <list default="true" id="40c5fcc9-ed7f-4bb9-b91e-bcee4782d4dc" name="Changes" comment="lesson 9 hw4">
+      <change afterPath="$USER_HOME$/OneDrive/Escritorio/HTML-CSS/java script/lesson 10/hw1/index.html" afterDir="false" />
       <change beforePath="$USER_HOME$/OneDrive/Escritorio/HTML-CSS/java script/.idea/workspace.xml" beforeDir="false" afterPath="$USER_HOME$/OneDrive/Escritorio/HTML-CSS/java script/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -81,15 +81,7 @@
       <updated>1731671403902</updated>
       <workItem from="1731671404972" duration="31321000" />
       <workItem from="1731969563983" duration="9720000" />
-      <workItem from="1732057541131" duration="62260000" />
-    </task>
-    <task id="LOCAL-00002" summary="lesson3 hw5">
-      <option name="closed" value="true" />
-      <created>1731973940447</created>
-      <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL-00002" />
-      <option name="project" value="LOCAL" />
-      <updated>1731973940447</updated>
+      <workItem from="1732057541131" duration="65144000" />
     </task>
     <task id="LOCAL-00003" summary="lesson3 hw6">
       <option name="closed" value="true" />
@@ -475,7 +467,15 @@
       <option name="project" value="LOCAL" />
       <updated>1732991588924</updated>
     </task>
-    <option name="localTasksCounter" value="51" />
+    <task id="LOCAL-00051" summary="lesson 9 hw4">
+      <option name="closed" value="true" />
+      <created>1732993139798</created>
+      <option name="number" value="00051" />
+      <option name="presentableId" value="LOCAL-00051" />
+      <option name="project" value="LOCAL" />
+      <updated>1732993139798</updated>
+    </task>
+    <option name="localTasksCounter" value="52" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -493,7 +493,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="lesson 6 hw1" />
     <MESSAGE value="lesson 6 hw2" />
     <MESSAGE value="lesson 6 hw3" />
     <MESSAGE value="lesson 6 hw4" />
@@ -518,7 +517,8 @@
     <MESSAGE value="lesson 9 hw1" />
     <MESSAGE value="lesson 9 hw2" />
     <MESSAGE value="lesson 9 hw3" />
-    <option name="LAST_COMMIT_MESSAGE" value="lesson 9 hw3" />
+    <MESSAGE value="lesson 9 hw4" />
+    <option name="LAST_COMMIT_MESSAGE" value="lesson 9 hw4" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
