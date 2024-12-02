@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<input id="xxx" type="number">
+<div id="result"></div>    //результати будуть приходити сюди
+
+<script>
+//створити конвертор ваги з кг в фунти. данні заповнюються через інпут. При введенні даних обрахунок стається миттєво,
+// без натискань додаткових кнопок
+const input = document.getElementById('xxx');
+const resultDiv = document.getElementById('result');
+input.oninput = function () {
+  resultDiv.innerText = +this.value * 2.2;   //+this.value- так перетворюємо в числове значення
+
+};  //1кг це 2.2 фунти (+this.value * 2.2)  //resultDiv.innerText -результат в дів
+
+</script>
+
+</body>
+</html>
